@@ -1,0 +1,36 @@
+{
+  "login": [
+    {
+      "id": 1,
+      "usuario": "admin",
+      "senha": "admin"
+    },
+    {
+      "id": 2,
+      "usuario": "Otavio",
+      "senha": "1010"
+    },
+    {
+      "usuario": "alunofront",
+      "senha": "music",
+      "id": 3
+    }
+  ],
+  "produtos": [
+    {
+      "id": 1,
+      "nome_produto": "Sapato masculino Oxford",
+      "preço": 125
+    },
+    {
+      "nome_produto": "Sapato feminino Manhattan",
+      "preço": "250.0",
+      "id": 3
+    },
+    {
+      "nome_produto": "Sapato feminino Miami",
+      "preço": "270.0",
+      "id": 4
+    }
+  ]
+}
